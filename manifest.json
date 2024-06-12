@@ -9,12 +9,12 @@
   "description": "",
   "icons": [
     {
-      "src": "/WebTourism/ZipGlide-v2/ZipGlide (1).png",
+      "src": "/ZipGlide/ZipGlide (1).png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/WebTourism/ZipGlide-v2/ZipGlide.png",
+      "src": "/ZipGlide/ZipGlide.png",
       "sizes": "512x512",
       "type": "image/png"
     }
